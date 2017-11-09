@@ -4,7 +4,7 @@ Eclipse library project based on:<br/>
 https://maven.google.com/com/android/support/multidex/1.0.2/multidex-1.0.2.aar
 
 **Requires:**
-- `Android 8.0 (API 26) SDK Platform`
+- `Android 8.1 (API 27) SDK Platform`
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html#25-4-0
